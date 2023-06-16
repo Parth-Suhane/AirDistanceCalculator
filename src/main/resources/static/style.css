@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.input-container {
+    margin: 10px;
+}
+
+button {
+    margin: 10px;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+}
